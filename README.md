@@ -22,4 +22,5 @@ Click on compare modal(should redirect to compare page) ,Validate selected devic
 Now add products on the compare page (total 4 products)
 
 Fetch ratings and reviews for all 4 products 
+![Screenshot 2024-07-07 094949](https://github.com/YashPawar123/Alphabins/assets/97838325/6ffd2472-47ef-4615-ae55-08dec2fb5306)
 
