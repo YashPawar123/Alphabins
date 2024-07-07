@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="48.3" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Flipkart Automation" name="Navigate to Flipkart and verify categories, validate carousel, and compare products" time="48.185">
+<system-out><![CDATA[
+Given I navigate to Flipkart................................................passed
+Then I fetch all categories visible below the search bar and verify the text.passed
+And I validate the carousel showing offers..................................passed
+When I select a product and search for it...................................passed
+Then I open the details page of the product.................................passed
+And I check the compare checkbox and validate if the compare modal opens....passed
+When I click on the compare modal...........................................passed
+Then I validate the selected device is visible on the compare page..........passed
+And I add three more products to the compare page making a total of four products.passed
+Then I fetch ratings and reviews for all four products......................passed
+]]></system-out>
+</testcase>
+</testsuite>
