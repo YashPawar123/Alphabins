@@ -61,7 +61,7 @@ This script performs a series of automated tests on the Flipkart website. Below 
 
 ## Requirements:
 
-- Web browser (e.g., Chrome, Firefox)
+- Web browser (e.g., Chrome,  )
 - Automation tool/library (e.g., Selenium  )
 - Expected values for category verification
 
